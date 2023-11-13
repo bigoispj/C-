@@ -13,14 +13,14 @@
 <ol>
 
 <li>Clone the repository:</li>
-<code>git clone https://github.com/your-username/genetic-algorithm-example.git</code>
+<code>git clone https://github.com/bigoispj/C-Plus-Plus/gen-alg.git</code>
 
 <li>Compile the C++ code:</li>
-<code>g++ genetic_algorithm.cpp -o genetic_algorithm</code>
+<code>g++ gen-alg.cpp -o gen-alg</code>
 
 
 <li>Run the executable:</li>
-<code>./genetic_algorithm</code>
+<code>./gen-alg</code>
 
 </ol>
 

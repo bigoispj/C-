@@ -11,14 +11,17 @@
 <p>Make sure you have a C++ compiler installed.</p>
 
 <ol>
-    <li>Clone the repository:</li>
-    <code>git clone https://github.com/your-username/genetic-algorithm-example.git</code>
 
-   Compile the C++ code:
-    <code>g++ genetic_algorithm.cpp -o genetic_algorithm</code>
+<li>Clone the repository:</li>
+<code>git clone https://github.com/your-username/genetic-algorithm-example.git</code>
 
-    Run the executable:
-    <code>./genetic_algorithm</code>
+<li>Compile the C++ code:</li>
+<code>g++ genetic_algorithm.cpp -o genetic_algorithm</code>
+
+
+<li>Run the executable:</li>
+<code>./genetic_algorithm</code>
+
 </ol>
 
 <h2>Parameters</h2>

@@ -13,7 +13,7 @@
 <ol>
 
 <li>Clone the repository:</li>
-<code>git clone https://github.com/bigoispj/C-Plus-Plus/gen-alg.git</code>
+<code>git clone https://github.com/bigoispj/C-Plus-Plus</code>
 
 <li>Compile the C++ code:</li>
 <code>g++ gen-alg.cpp -o gen-alg</code>
@@ -36,7 +36,7 @@
 
 <h2>License</h2>
 
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+<p>This project is licensed under the MIT License - see the <a href="https://mit-license.org">LICENSE</a> file for details.</p>
 
 <h2>Acknowledgments</h2>
 
